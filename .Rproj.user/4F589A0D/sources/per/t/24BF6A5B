@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558568120415.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1862123189",
+    "id" : "24BF6A5B",
+    "lastKnownWriteTime" : 1558540756,
+    "last_content_update" : 1558540756,
+    "path" : "H:/Coursera/Mastering Software Development in R Spec/Capstone/NOAA.capstone/R/eq_map.R",
+    "project_path" : "R/eq_map.R",
+    "properties" : {
+        "cursorPosition" : "75,7",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558566811635.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3380911462",
+    "id" : "2E738F97",
+    "lastKnownWriteTime" : 1558569743,
+    "last_content_update" : 1558569743938,
+    "path" : "H:/Coursera/Mastering Software Development in R Spec/Capstone/NOAA.capstone/tests/testthat/test_package.R",
+    "project_path" : "tests/testthat/test_package.R",
+    "properties" : {
+        "cursorPosition" : "34,20",
+        "scrollLine" : "9"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

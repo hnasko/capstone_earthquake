@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558567884579.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1194030412",
+    "id" : "11BEEF48",
+    "lastKnownWriteTime" : 1558388453,
+    "last_content_update" : 1558388453,
+    "path" : "H:/Coursera/Mastering Software Development in R Spec/Capstone/NOAA.capstone/R/geom_timeline_label.R",
+    "project_path" : "R/geom_timeline_label.R",
+    "properties" : {
+        "cursorPosition" : "12,5",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
