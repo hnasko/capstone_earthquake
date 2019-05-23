@@ -16,7 +16,8 @@ Imports:
     stringr,
     ggplot2,
     grid, 
-    leaflet
+    leaflet,
+    curl
 Suggests: 
     knitr,
     rmarkdown,
