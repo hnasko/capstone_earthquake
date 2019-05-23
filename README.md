@@ -77,4 +77,3 @@ location, magnitude and total number of deaths for each earthquake.
     dt[COUNTRY == "MEXICO" & lubridate::year(DATE) >= 2000] %>%
       eq_create_label() %>%
       eq_map(annot_col = "popup_text")
-# noaa.capstone
