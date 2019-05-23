@@ -1,3 +1,5 @@
+https://travis-ci.org/hnasko/capstone_earthquake.svg?branch=master
+
 Introduction
 ------------
 
